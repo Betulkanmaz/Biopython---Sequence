@@ -24,3 +24,5 @@ Alphabet Module and Basic Operations.
       * RNAAlphabet − Generic single letter RNA alphabet.
       
     Biopython module, Bio.Alphabet.IUPAC provides basic sequence types as defined by IUPAC community.
+    
+    Paylaşılan python kodunda Global Hizalama yapılmıştır.
